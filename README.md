@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arman Tarhani</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on [Bargeto](https://bargeto.com/)
+- 🔭 I’m currently working on [Bargheto](https://bargheto.com/)
 
-- 👯 I’m looking to collaborate on **Bargeto**
+- 👯 I’m looking to collaborate on **Bargheto**
 
 - 📝 I regularly write articles on [Technologies](Technologies)
 
