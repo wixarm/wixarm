@@ -8,6 +8,7 @@ Building exceptional digital experiences through modern web technologies and inn
 ## Creator of [Arfa.js](https://github.com/wixarm/arfa)
 ⚡ A next-generation TSX framework featuring:
 - Zero-config Vite-powered architecture
+- Reactive Hooks — Built with arfa-reactives for state and lifecycle
 - Intuitive file-based routing system
 - Built-in protected route handling
 - Lightning-fast custom runtime engine
