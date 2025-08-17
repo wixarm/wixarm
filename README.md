@@ -19,9 +19,3 @@ Building exceptional digital experiences through modern web technologies and inn
 ▸ **Type-safe everything** by default  
 ▸ **Performance as a feature**, not an afterthought  
 ▸ **Developer experience** that delights  
-
-## Currently Exploring
-- WebAssembly applications
-- React Server Components patterns
-- Edge computing architectures
-- AI-augmented development workflows
