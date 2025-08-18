@@ -13,9 +13,3 @@ Building exceptional digital experiences through modern web technologies and inn
 - Built-in protected route handling
 - Lightning-fast custom runtime engine
 - Seamless Tailwind integration
-
-## Technical Philosophy
-▸ **Minimal abstractions** with maximal flexibility  
-▸ **Type-safe everything** by default  
-▸ **Performance as a feature**, not an afterthought  
-▸ **Developer experience** that delights  
